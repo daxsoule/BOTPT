@@ -1,7 +1,10 @@
 Notebooks for the analysis and modeling of BOTPT data.
 
-Data used in these scripts can be downloaded here: https://drive.google.com/open?id=1NRrr0JOvyFYhKv9if9mXUWF7AfPOs56O
+Data used in these scripts can be downloaded here:
+BOTPT data
+https://drive.google.com/open?id=1NRrr0JOvyFYhKv9if9mXUWF7AfPOs56O
 
+BPR data
 https://drive.google.com/open?id=1YOF0twNCcp6ivd9mZ91FgV0RbPx6PpXT
 
 Reproducibility: For every result, keep track of how it was produced Avoid manual data-manipulation steps Archive the exact versions of all external programs used Version-control all custom scripts Record all intermediate results, when possible in standard formats For analyses that include randomness, note underlying random seeds Always store raw data behind plots Generate hierarchical analysis output, allowing layers of increasing detail to be inspected Connect textual statements to underlying results Provide public access to scripts, runs, and results These recommendations suggest a certain structure for a project.
